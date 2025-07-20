@@ -29,8 +29,7 @@ This project converts handwritten images to text using OCR and can enhance the e
 
 ## ⚠️ Note
 - AI enhancement (Ollama Mistral) requires running locally and cannot be provided on public cloud/free hosting due to hardware and deployment limitations.
-- The public demo is for OCR and basic text features only.
 
 ---
 
-Feel free to try the public demo, watch the video, or clone the repo and run the full version locally!
+Clone the Repo and run the full version locally
